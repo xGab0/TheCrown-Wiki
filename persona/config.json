@@ -1,6 +1,10 @@
 {
   "groups": [
+    "blue",
     "default",
-    "lobby"
+    "green",
+    "lobby",
+    "red",
+    "yellow"
   ]
 }

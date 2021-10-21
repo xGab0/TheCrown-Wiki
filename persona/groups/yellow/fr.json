@@ -1,0 +1,10 @@
+{
+  "skin": "",
+  "chat": "<bold><gold>jaune-en</gray></bold><yellow> %player% <dark_gray>➠ <gray>%message%",
+  "tag": {
+    "interval": 7,
+    "frames": [
+      "<bold><gold>jaune-en</bold> <yellow>%player%"
+    ]
+  }
+}
