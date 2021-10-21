@@ -1,0 +1,8 @@
+{
+  "name": "watchers",
+  "interval": 4,
+  "frames": [
+    "<white>prima riga",
+    "<green>seconda riga"
+  ]
+}

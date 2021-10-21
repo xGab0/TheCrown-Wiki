@@ -1,0 +1,15 @@
+{
+  "channels": [
+    "global",
+    "blue",
+    "green",
+    "red",
+    "yellow"
+  ],
+  "groups": [
+    "blue",
+    "green",
+    "red",
+    "yellow"
+  ]
+}
